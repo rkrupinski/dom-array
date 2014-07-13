@@ -1,0 +1,15 @@
+{
+  "boss": true,
+  "browser": true,
+  "curly": true,
+  "eqeqeq": true,
+  "expr": true,
+  "laxcomma": true,
+  "newcap": true,
+  "noarg": true,
+  "node": true,
+  "quotmark": true,
+  "undef": true,
+  "unused": true,
+  "trailing": true
+}
