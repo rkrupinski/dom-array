@@ -1,6 +1,6 @@
 {
   "name": "dom-array",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Turn any* input into array (of DOM nodes).",
   "main": "index.js",
   "repository": {
