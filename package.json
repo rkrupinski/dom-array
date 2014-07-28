@@ -17,6 +17,9 @@
     "url": "https://github.com/rkrupinski/dom-array/issues"
   },
   "homepage": "https://github.com/rkrupinski/dom-array",
+  "dependencies": {
+    "parse-html": "0.0.1"
+  },
   "devDependencies": {
     "gulp": "^3.8.6",
     "gulp-browserify": "^0.5.0",
